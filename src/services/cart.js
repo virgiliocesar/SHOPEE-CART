@@ -1,5 +1,4 @@
-//quais açõe meu carrinho pode fazer
-
+//?quais açõe meu carrinho pode fazer
 //*CASOS DE USO
 //& ✅ -> adicionar item ao carrinho
 async function addItem(userCart, item) {
